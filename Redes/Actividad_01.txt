@@ -4,3 +4,13 @@ Capítulo 1
 Los datos son unidades de información que viajan de un dispositivo a otro en una red, los datos pueden tener diferentes formatos, como por ejemplo, texto, voz, video, etc.
 1.2 ¿Qué es una red de datos?
 Una red de datos es un conjunto de dispositivos que se interconectan para intercambiar información. Esta cuenta con un emisor, receptor, canal y protocolos de comunicación.
+
+2. Describir las características de las arquitecturas de red
+2.1 Tolerante a fallas
+Es la capacidad de una red para mantenerse en funcionamiento y recuperarse de los problemas que afectan a sus dispositivos, medios o servicios. Un ejemplo es el uso de la redundancia, estrategia que permite conectar dispositivos por múltiples caminos diferentes.
+2.2 Escalabilidad
+Es la capacidad de una red para crecer y adaptarse a nuevas necesidades de los usuarios o aplicaciones. Un ejemplo es el uso de protocolos que permiten la interoperabilidad entre diferentes dispositivos y tecnologías.
+2.3 Calidad del servicio (QoS)
+Es la capacidad de una red de priorizar el rendimiento de tráficos urgentes. Un ejemplo de esto son los mecanismos de clasificación, cola y control de congestión.
+2.4 Seguridad
+Es la capacidad de una red para proteger la información y los recursos de accesos no autorizados. Un ejemplo es el uso de técnicas de cifrado, autenticación y firewall.
