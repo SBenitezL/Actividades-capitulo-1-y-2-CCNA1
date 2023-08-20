@@ -1,0 +1,6 @@
+Capítulo 1
+1. Responda brevemente
+1.1 ¿Qué son los datos? 
+Los datos son unidades de información que viajan de un dispositivo a otro en una red, los datos pueden tener diferentes formatos, como por ejemplo, texto, voz, video, etc.
+1.2 ¿Qué es una red de datos?
+Una red de datos es un conjunto de dispositivos que se interconectan para intercambiar información. Esta cuenta con un emisor, receptor, canal y protocolos de comunicación.
