@@ -43,3 +43,11 @@ La INTERWORK es la malla global de redes interconectadas, la interwork más cono
 
 3.¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
 La diferencia es que la interwork es una colección de redes interconectadas en general, las cuales puedes ser extensas, locales u organizacionales y el internet  es una red global masiva y pública que conecta millones de redes, dispositivos y usuarios en todo el mundo y utiliza el protocolo TPC/IP para permitir esta comunicación.
+
+4.Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+4.1 Tarjeta de interfaz de red (NIC)
+O adaptador de LAN, es la conexión física con la red en algún dispositivo host.
+4.2 Puerto físico
+Conector o toma en un dispositivo para conectar el canal con los miembros de la red.
+4.3 Interfaz de red
+Puertos especializados que se conectan a redes individuales.(Puertos de un router)
