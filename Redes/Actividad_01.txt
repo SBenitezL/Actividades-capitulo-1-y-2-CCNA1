@@ -67,3 +67,29 @@ Consiste en agregar información de control a los datos en cada capa del modelo 
 8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
 El modelo de protocolo consiste en un conjunto de protocolos que se usan para comunicarse entre dispositivos de una red, mientras que un modelo de referencia es una representación abstracta y simplificada de cómo funciona una red, también divide la red en capas lógicas y define las funciones.
 La principal diferencia entre estos dos modelos es que el modelo de protocolo brinda funcionalidad a la red mientras que el modelo de referencia le permite a las personas que trabajan con la red abstraer la información y como herramienta para entender el funcionamiento de la misma.
+
+9. Describir la función de cada capa en los dos modelos de red
+9.1 Modelo TCP/IP
+9.1.1 Capa de aplicación: 
+Proporciona servicios y aplicaciones para el usuario final
+9.1.2 Capa de transporte
+Se encarga de establecer y mantener la comunicación entre dos dispositivos finales
+9.1.3 Capa de red
+Se encarga de direccionar y enrutar los paquetes a través de la red
+9.1.4 Capa de interfaz de red
+Se encarga de transmitir y recibir los bits a través del medio físico.
+9.2 Modelo OSI
+9.2.1 Capa de aplicación
+Proporciona servicios y aplicaciones para el usuario final, como correo electrónico, navegación web y transferencia de archivos. Usa protocolos como HTTP, SMTP, POP, DNS y FTP2.
+9.2.2 Capa de presentación
+Se encarga de traducir, comprimir y cifrar los datos según el formato requerido por la capa de aplicación. Usa formatos como ASCII, JPEG y SSL.
+9.2.3 Capa de sesión
+Se encarga de establecer, mantener y terminar las sesiones entre dos dispositivos finales. Usa protocolos como RPC, SQL y NFS.
+9.2.4 Capa de transporte
+Se encarga de establecer y mantener la comunicación entre dos dispositivos finales. Usa protocolos como TCP y UDP para segmentar, enumerar, ordenar y verificar los datos.
+9.2.5 Capa de red
+Se encarga de direccionar y enrutar los paquetes a través de la red. Usa protocolos como IP, ICMP y ARP para identificar y localizar los dispositivos y las mejores rutas.
+9.2.6 Capa de enlace de datos
+Se encarga de transmitir y recibir los datos a través del medio físico. Usa protocolos como Ethernet, PPP y HDLC para encapsular los datos en tramas y controlar el acceso al medio.
+9.2.7 Capa física
+Se encarga de convertir los bits en señales eléctricas, ópticas o inalámbricas que viajan por el medio físico.
