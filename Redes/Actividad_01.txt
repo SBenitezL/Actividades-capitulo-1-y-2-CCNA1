@@ -36,3 +36,7 @@ Dispositivos intermedios: Son los que proporcionan conectividad y garantizan que
 Los medios proporcionan el canal por el 	mensaje desde el origen hasta el destino, los principales medios para interconectar los dispositivos  y proporcionar la ruta por la que se van a transmitir los datos son: los cables(hilos metálicos), fibras ópticas y transmisión inalámbrica.
 1.3. Servicios
 Son los programas de comunicación que se ejecutan en los dispositivos conectados de una red(software), también proporciona información en respuesta a una solicitud.
+
+2.Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
+La RED es una infraestructura que permite la comunicación de diferentes datos, la red es un término más general que engloba todos los tipos de redes, mientras que LAN es una red de área local que cubre un área geográfica y proporciona servicios a una estructura común.(empresas, campus región). Las redes WAN son una red de área amplia que cubre una gran área geográfica, a menudo a través de conexiones públicas o privadas, las redes WAN interconectan a las redes LAN.
+La INTERWORK es la malla global de redes interconectadas, la interwork más conocida y ampliamente utilizada es el  internet. El INTERNET se crea por la interconexión de redes que pertenecen a los Proveedores de servicios de Internet (ISP).
