@@ -57,3 +57,9 @@ Un protocolo es independiente a la tecnología, porque está diseñado para func
 
 6. Explicar brevemente qué es una Unidad de Datos del Protocolo
 Es una unidad de información que se transmite entre los dispositivos de una red. Una PDU contiene los datos que se quieren comunicar y la información de control necesaria para asegurar la entrega correcta y la interpretación de los datos. dependiendo del protocolo la PDU contendrá diferente información.
+
+7. Explicar
+7.1 Función de los protocolos en las comunicaciones de redes
+Los protocolos definen cómo se formatean, se transmiten y se reciben los datos, así como el procedimiento para manejar errores, confirmaciones y control de flujo.
+7.2  ¿Para qué es el proceso de encapsulamiento de los datos?
+Consiste en agregar información de control a los datos en cada capa del modelo de red, para facilitar su envío y recepción. La información  incluye, direcciones, identificadores, códigos de error y otros datos. El encapsulamiento también permite que diferentes tipos de datos se transporten por la misma red.
