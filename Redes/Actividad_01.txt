@@ -54,3 +54,6 @@ Puertos especializados que se conectan a redes individuales.(Puertos de un route
 
 5.¿Por qué se dice que un protocolo es independiente de la tecnología?
 Un protocolo es independiente a la tecnología, porque está diseñado para funcionar de manera consistente en diferentes entornos y plataformas,estos define reglas y estándares de comunicación que son aplicables sin importar el tipo de infraestructura o tecnología de red utilizada.
+
+6. Explicar brevemente qué es una Unidad de Datos del Protocolo
+Es una unidad de información que se transmite entre los dispositivos de una red. Una PDU contiene los datos que se quieren comunicar y la información de control necesaria para asegurar la entrega correcta y la interpretación de los datos. dependiendo del protocolo la PDU contendrá diferente información.
