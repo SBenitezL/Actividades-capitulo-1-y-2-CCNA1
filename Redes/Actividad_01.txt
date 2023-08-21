@@ -14,3 +14,8 @@ Es la capacidad de una red para crecer y adaptarse a nuevas necesidades de los u
 Es la capacidad de una red de priorizar el rendimiento de tráficos urgentes. Un ejemplo de esto son los mecanismos de clasificación, cola y control de congestión.
 2.4 Seguridad
 Es la capacidad de una red para proteger la información y los recursos de accesos no autorizados. Un ejemplo es el uso de técnicas de cifrado, autenticación y firewall.
+3. Investigar
+3.1 Redes orientadas a la conexión
+Son redes que requieren que los dispositivos establezcan una sesión antes de transmitir los datos. Esto garantiza que los datos lleguen en el orden correcto y sin pérdidas. Como ejemplo está el protocolo TCP, que se usa para enviar datos de forma confiable por internet.
+3.2 redes no orientadas a la conexión
+Son redes que no requieren que los dispositivos establezcan una sesión antes de transmitir datos. Los datos se envían como paquetes independientes que pueden tomar diferentes rutas y llegar en diferente orden o con pérdidas. Un ejemplo de esto es el protocolo UDP, que se utiliza para enviar datos rápidos pero no confiables. 
