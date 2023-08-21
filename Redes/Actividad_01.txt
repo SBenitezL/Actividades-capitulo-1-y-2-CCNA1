@@ -63,3 +63,7 @@ Es una unidad de información que se transmite entre los dispositivos de una red
 Los protocolos definen cómo se formatean, se transmiten y se reciben los datos, así como el procedimiento para manejar errores, confirmaciones y control de flujo.
 7.2  ¿Para qué es el proceso de encapsulamiento de los datos?
 Consiste en agregar información de control a los datos en cada capa del modelo de red, para facilitar su envío y recepción. La información  incluye, direcciones, identificadores, códigos de error y otros datos. El encapsulamiento también permite que diferentes tipos de datos se transporten por la misma red.
+
+8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+El modelo de protocolo consiste en un conjunto de protocolos que se usan para comunicarse entre dispositivos de una red, mientras que un modelo de referencia es una representación abstracta y simplificada de cómo funciona una red, también divide la red en capas lógicas y define las funciones.
+La principal diferencia entre estos dos modelos es que el modelo de protocolo brinda funcionalidad a la red mientras que el modelo de referencia le permite a las personas que trabajan con la red abstraer la información y como herramienta para entender el funcionamiento de la misma.
