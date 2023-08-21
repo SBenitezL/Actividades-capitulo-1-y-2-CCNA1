@@ -51,3 +51,6 @@ O adaptador de LAN, es la conexión física con la red en algún dispositivo hos
 Conector o toma en un dispositivo para conectar el canal con los miembros de la red.
 4.3 Interfaz de red
 Puertos especializados que se conectan a redes individuales.(Puertos de un router)
+
+5.¿Por qué se dice que un protocolo es independiente de la tecnología?
+Un protocolo es independiente a la tecnología, porque está diseñado para funcionar de manera consistente en diferentes entornos y plataformas,estos define reglas y estándares de comunicación que son aplicables sin importar el tipo de infraestructura o tecnología de red utilizada.
